@@ -1,0 +1,146 @@
+body{
+  background-color: #301B3F;
+  background-image: url("https://media.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#title{
+  background-image: url("https://media.giphy.com/media/xlWiIpKcbvJmqNLlCQ/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-align: center;
+  height: 100vh;
+
+
+}
+
+#alien{
+  width: 100%;
+  height: 80em;
+
+
+}
+
+#img1 {
+  transform: rotate(25deg);
+
+}
+.nav-link{
+  /* padding: 5% 8%; */
+  font-family: "Jokerman";
+  font-size: 2rem;
+  margin: 0 0.625rem
+}
+h1{
+  color: white;
+  font-family: "Mistral";
+  font-size: 6rem;
+  margin-top: 1em;
+}
+.navbar-brand{
+  font-size: 4rem;
+  font-family: "Kunstler Script";
+  /* padding: 5% 8%; */
+}
+.btn-1{
+  margin: 5% 3% 5% 0;
+}
+
+#img2{
+
+  width: 10em;
+  height: 10em;
+  border-radius: 30px;
+}
+
+
+
+
+.col-bg{
+  background-image: url("https://media.giphy.com/media/3IcbXNHDIZQRy/giphy.gif")
+}
+.col-bg2{
+  background-image: url("https://media.giphy.com/media/iJqkPAsLEoKQADdEoS/giphy.gif");
+  background-image: opacity(0.6);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.col-bg3{
+  background-image: url("https://media.giphy.com/media/1nPJa6WA7ueLWczbqe/giphy.gif")
+}
+.break{
+  text-align: center;
+}
+#testimonials {
+
+  text-align: center;
+  color: white;
+  margin: 20em 0 20em 0;
+
+
+}
+#img3{
+  width: 30em;
+  height: 35em;
+}
+h2{
+  font-family: "Magneto"
+}
+#img4{
+  transform: rotate(25deg);
+}
+#img5 {
+    transform: rotate(-25deg);
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+
+  color: white;
+  filter: drop-shadow(8px 8px 10px white);
+}
+#wheel{
+  height: 50em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+#result{
+  color: white;
+  text-align: center;
+  font-size: 5em;
+  font-family: "Forte"
+}
+#img6{
+  width: 10%;
+  height: 10%;
+
+}
+
+.shots:hover {
+  filter: drop-shadow(8px 8px 10px white);
+}
+.shots{
+  width: 100%;
+
+}
+#final{
+  text-align: center;
+  height: 100vh;
+  background-image: url("https://media.giphy.com/media/rStxXJzdLAuARBgFWO/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+.img9{
+  transform: rotate(25deg);
+}
+.img10{
+  transform: rotate(-25deg)
+}
+.name:hover {
+  filter: drop-shadow(8px 8px 10px white);
+}
